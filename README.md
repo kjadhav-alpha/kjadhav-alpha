@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kjadhav-alpha
 - 👀 I’m interested in Python, Machine Learning, SQL, Tableau 
 - 🌱 I’m currently learning Machine Learning  
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning, Tableau
 - 📫 How to reach me onlykiranjadhav@gmail.com
 
 <!---
